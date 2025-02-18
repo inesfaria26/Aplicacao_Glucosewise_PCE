@@ -1,1 +1,3 @@
-Aplicação em React, com recurso a EXPO - Esta aplicação tem como principal objetivo a monitorização de pacientes com a doença da diabetes, sendo que a mesma possui várias funcionalidades que irão ser melhoradas ao longo do tempo. Este trabalho foi desenvolvido no âmbito da Unidade Curricular O Processo Clínico e Eletrónico.
+EN: React application, using EXPO - This application's main objective is to monitor patients with diabetes, and it has several features that will be improved over time. This work was developed within the scope of the Curricular Unit The Clinical and Electronic Process.
+
+PT: Aplicação em React, com recurso a EXPO - Esta aplicação tem como principal objetivo a monitorização de pacientes com a doença da diabetes, sendo que a mesma possui várias funcionalidades que irão ser melhoradas ao longo do tempo. Este trabalho foi desenvolvido no âmbito da Unidade Curricular O Processo Clínico e Eletrónico.
